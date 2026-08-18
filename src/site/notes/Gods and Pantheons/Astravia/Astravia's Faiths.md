@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gods and Pantheons's Faiths.md","permalink":"/gods-and-pantheons-s-faiths/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Gods and Pantheons/Astravia's Faiths.md","permalink":"/gods-and-pantheons/astravia-s-faiths/","dg-note-properties":{}}
 ---
 
 While the **Prismatic Ray** serves as the spiritual bedrock for much of Astravia—uniting the Sun, Moon, Songbird, Dove, and Night Star into a singular, harmonious pantheon—the fractured nations have naturally gravitated toward "Faint Divinities" and the "Aesira Children" who echo their specific struggles.
@@ -65,25 +65,3 @@ Faith in Trent is a balance between the nurturing Mother and the predatory Hunte
 | [[Gods and Pantheons/Ry'v'shta\|Beast of Winter]] | N / A              | Entropy                 | A horned bull            | The god of cold, winter, famine, natural disasters and bad luck and all that is the end of things and peoples |
 
 ---
---- hidden
-## 4. The Seldarine (Erivan)
-*The Ancient Gods of Elvenkind.*
-To the Elves, the gods are not distant creators, but ancestors who left the AonDor as a legacy.
-
-| **Deity**    | **Title**    | **Domains**                 | **Symbol**                | **Portfolio**                                                                                            |
-| :----------- | :----------- | :-------------------------- | :------------------------ | :------------------------------------------------------------------------------------------------------- |
-| **Ferrol**   | God of Elves | Elvenkind, Vitality, Arcane | A silver willow tree      | The eldest son and patron of the immortal elven soul. Represents the ageless nature of the Erivan lands. |
-| **Yuelral**  | The Wise     | Crystals, Magic, Jewels     | Three floating crystals   | The patron of the gem-magic that powers the elven cities and shields the Divide.                         |
-| **Ketephys** | The Hunter   | Moon, Forestry, Borders     | A hawk on a crescent moon | The protector of the Divide and the silent warden of the elven borders.                                  |
-
----
-
-## 5. The Shadows of AonDor (The Forgotten)
-*The Entities of the Void.*
-These are the forces that existed before the Mantle, or were cast out during its creation.
-
-| **Entity** | **Title** | **Domains** | **Portfolio** |
-| :--- | :--- | :--- | :--- |
-| **Uberlin** | God of Darkness | Shadow, Secrets, Loss | A sun eclipsed by a black circle | The son who turned away from the Light. He is the source of the "Deep Rot" and the master of the shadows beneath the earth. |
-| **Yog-Sothoth** | The Key and the Gate | Void, Space, Time | The AonDor itself. The terrifying bridge between our reality and the primordial chaos beyond the Mantle. |
-| **Nyarlathotep** | The Crawling Chaos | Madness, Deception | The messenger of the Forgotten Gods. The voice that goaded the Cenzylors into their hubris at Percepliquis. |
