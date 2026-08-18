@@ -2683,3 +2683,262 @@ settings:
     #    id: co-ttl-ctr
     #    type: class-toggle
 */
+
+
+/* Fancy Headers */
+
+:root {
+    --header-shadow-size: 0px 4px 3px;
+    --header-shadow-color: rgb(31, 31, 31);
+    --color-highlight-text: #2d3039;
+    --color-highlight-gradient: linear-gradient(60deg, #d7f8ff, #d4f0fe, #d1e6fe, #cedcfd, #cbd2fc, #c3c1fc, #c7b9f8, #c7a3ff);
+    --text-selection: rgba(134, 169, 209, 0.233);
+    /*
+        f88d4f -> orange h1
+        38d687 -> green h2
+        9f78dd -> purple h3
+        f88d4f -> orange h4
+        38d687 -> green h5
+        9f78dd -> purple h6
+    */
+
+    --h1-text-color: #BBDDCC;
+    --h2-text-color: #BDB3E3;
+    --h3-text-color: #D5B48B;
+    --h1-gradient: linear-gradient(to bottom, var(--h1-text-color), #d2ebdf);
+    --h2-gradient: linear-gradient(to bottom, var(--h2-text-color), #ddd3f0);
+    --h3-gradient: linear-gradient(to bottom, var(--h3-text-color), #e6d9c9);
+
+
+    /* --h1-text-color: rgb(248, 141, 79);
+    --h1-gradient: linear-gradient(0deg, rgba(248, 141, 79, 1) 0%, rgba(255, 220, 165, 1) 73%, rgba(248, 232, 201, 1) 100%);
+    --h2-text-color: rgb(56, 214, 135);
+    --h2-gradient: linear-gradient(0deg, rgba(56, 214, 135, 1) 0%, rgba(155, 242, 189, 1) 73%, rgba(196, 244, 223, 1) 100%);
+    --h3-text-color: rgb(159, 120, 221);
+    --h3-gradient: linear-gradient(0deg, rgba(159, 120, 221, 1) 0%, rgba(214, 174, 252, 1) 73%, rgba(245, 215, 255, 1) 100%); */
+    --h1-size: 2em;
+    --h2-size: 1.6em;
+    --h3-size: 1.37em;
+    --h4-size: 1.25em;
+    --h5-size: 1.12em;
+    --h6-size: 1.12em;
+}
+
+::selection {
+    color: white;
+    -webkit-text-fill-color: white;
+    background-color: var(--text-selection);
+}
+
+.cm-header-1 {
+    background: var(--h1-text-color);
+    background: var(--h1-gradient)!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+    filter: drop-shadow(var(--header-shadow-size) var(--header-shadow-color))!important;
+    font-weight: 750!important;
+}
+
+.cm-header-2 {
+    background: var(--h2-text-color);
+    background: var(--h2-gradient)!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+    filter: drop-shadow(var(--header-shadow-size) var(--header-shadow-color))!important;
+    font-weight: 750!important;
+}
+
+.cm-header-3 {
+    background: var(--h3-text-color);
+    background: var(--h3-gradient)!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+    filter: drop-shadow(var(--header-shadow-size) var(--header-shadow-color))!important;
+    font-weight: 750!important;
+}
+
+.cm-header-4 {
+    background: var(--h1-text-color);
+    background: var(--h1-gradient)!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+    filter: drop-shadow(var(--header-shadow-size) var(--header-shadow-color))!important;
+    font-weight: 750!important;
+}
+
+.cm-header-5 {
+    background: var(--h2-text-color);
+    background: var(--h2-gradient)!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+    filter: drop-shadow(var(--header-shadow-size) var(--header-shadow-color))!important;
+    font-weight: 750!important;
+}
+
+.cm-header-6 {
+    background: var(--h3-text-color);
+    background: var(--h3-gradient)!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+    filter: drop-shadow(var(--header-shadow-size) var(--header-shadow-color))!important;
+    font-weight: 750!important;
+}
+
+.HyperMD-header.HyperMD-header-1.cm-line {
+    border-bottom: 2px solid var(--h1-text-color)!important;
+    padding-bottom: 0px!important;
+    margin-bottom: 6px!important;
+}
+
+.HyperMD-header.HyperMD-header-2.cm-line {
+    border-bottom: 2px solid var(--h2-text-color)!important;
+    padding-bottom: 0px!important;
+    margin-bottom: 6px!important;
+}
+
+.HyperMD-header.HyperMD-header-3.cm-line {
+    border-bottom: 2px solid var(--h3-text-color)!important;
+    padding-bottom: 0px!important;
+    margin-bottom: 6px!important;
+}
+
+.HyperMD-header.HyperMD-header-4.cm-line {
+    padding-bottom: 0px!important;
+}
+
+.HyperMD-header.HyperMD-header-5.cm-line {
+    padding-bottom: 0px!important;
+}
+
+.HyperMD-header.HyperMD-header-6.cm-line {
+    padding-bottom: 0px!important;
+}
+
+/* Custom Quote Colors */
+
+span.cm-iconize-icon {
+    display: none;
+}
+
+/* Ever since 1.4.1 shit is broken yo */
+.HyperMD-quote:has(span.cm-tag-red),
+.HyperMD-quote:has(span.cm-tag-cyan),
+.HyperMD-quote:has(span.cm-tag-green),
+.HyperMD-quote:has(span.cm-tag-yellow),
+.HyperMD-quote:has(span.cm-tag-orange),
+.HyperMD-quote:has(span.cm-tag-blue),
+.HyperMD-quote:has(span.cm-tag-purple),
+.HyperMD-quote:has(span.cm-tag-pink),
+.HyperMD-quote:has(span.cm-tag-evil) {
+    text-indent: -18px!important;
+    padding-left: 14px!important;
+
+    &.cm-active {
+        text-indent: -15px!important;
+    }
+}
+
+
+
+.HyperMD-quote:has(span.cm-tag-red) {
+    --color-accent: rgb(var(--red));
+    --blockquote-border-color: rgb(var(--red));
+    --blockquote-background-color: rgba(var(--red), 0.07);
+    --blockquote-color: rgb(var(--red));
+    color: rgb(var(--red))!important;
+    &:not(.cm-active) .cm-tag-red {
+        display: none;
+    }
+}
+
+.HyperMD-quote:has(span.cm-tag-blue) {
+    --color-accent: rgb(var(--blue));
+    --blockquote-border-color: rgb(var(--blue));
+    --blockquote-background-color: rgba(var(--blue), 0.07);
+    --blockquote-color: rgb(var(--blue));
+    color: rgb(var(--blue))!important;
+    &:not(.cm-active) .cm-tag-blue {
+        display: none;
+    }
+}
+
+.HyperMD-quote:has(span.cm-tag-cyan) {
+    --color-accent: rgb(var(--cyan));
+    --blockquote-border-color: rgb(var(--cyan));
+    --blockquote-background-color: rgba(var(--cyan), 0.07);
+    --blockquote-color: rgb(var(--cyan));
+    color: rgb(var(--cyan))!important;
+    &:not(.cm-active) .cm-tag-cyan {
+        display: none;
+    }
+}
+
+.HyperMD-quote:has(span.cm-tag-green) {
+    --color-accent: rgb(var(--green));
+    --blockquote-border-color: rgb(var(--green));
+    --blockquote-background-color: rgba(var(--green), 0.07);
+    --blockquote-color: rgb(var(--green));
+    color: rgb(var(--green))!important;
+    &:not(.cm-active) .cm-tag-green {
+        display: none;
+    }
+}
+
+.HyperMD-quote:has(span.cm-tag-yellow) {
+    --color-accent: rgb(var(--yellow));
+    --blockquote-border-color: rgb(var(--yellow));
+    --blockquote-background-color: rgba(var(--yellow), 0.07);
+    --blockquote-color: rgb(var(--yellow));
+    color: rgb(var(--yellow))!important;
+    &:not(.cm-active) .cm-tag-yellow {
+        display: none;
+    }
+}
+
+.HyperMD-quote:has(span.cm-tag-orange) {
+    --color-accent: rgb(var(--orange));
+    --blockquote-border-color: rgb(var(--orange));
+    --blockquote-background-color: rgba(var(--orange), 0.07);
+    --blockquote-color: rgb(var(--orange));
+    color: rgb(var(--orange))!important;
+    &:not(.cm-active) .cm-tag-orange {
+        display: none;
+    }
+}
+
+.HyperMD-quote:has(span.cm-tag-purple) {
+    --color-accent: rgb(var(--violet));
+    --blockquote-border-color: rgb(var(--violet));
+    --blockquote-background-color: rgba(var(--violet), 0.07);
+    --blockquote-color: rgb(var(--violet));
+    color: rgb(var(--violet))!important;
+    &:not(.cm-active) .cm-tag-purple {
+        display: none;
+    }
+}
+
+.HyperMD-quote:has(span.cm-tag-pink) {
+    --color-accent: rgb(var(--lily));
+    --blockquote-border-color: rgb(var(--lily));
+    --blockquote-background-color: rgba(var(--lily), 0.07);
+    --blockquote-color: rgb(var(--lily));
+    color: rgb(var(--lily))!important;
+    &:not(.cm-active) .cm-tag-pink {
+        display: none;
+    }
+}
+
+.HyperMD-quote:has(span.cm-tag-evil) {
+    --color-accent: rgb(221, 21, 59);
+    --blockquote-border-color: rgb(221, 21, 59);
+    --blockquote-background-color: rgba(221, 21, 59, 0.07);
+    --blockquote-color: rgb(221, 21, 59);
+    color: rgb(221, 21, 59)!important;
+    font-style: italic!important;
+    font-weight: 800!important;
+    &:not(.cm-active) .cm-tag-evil {
+        display: none;
+    }
+}
+
+
