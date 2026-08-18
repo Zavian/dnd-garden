@@ -16,9 +16,6 @@ His primary worshipers are judges, merchants, lawyers, and aristocrats, all of w
 
 Abadar makes his will known to the faithful via sudden windfalls of cash, while those who have angered him meet with the opposite fate: sudden mounting expenses leading to destitution.
 
-## Appearance
-
-Abadar is shown as a clean, well-dressed man bearing the markings of riches and civilization. From his gold breastplate to his richly embroidered cloak, everything about him is refined and cultured, and he always carries an ornate gold key.
 
 ## The Clergy and Temples
 
