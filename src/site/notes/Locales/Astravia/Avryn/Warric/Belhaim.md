@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locales/Belhaim.md","permalink":"/locales/belhaim/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Locales/Avryn/Belhaim.md","permalink":"/locales/avryn/belhaim/","dg-note-properties":{}}
 ---
 
 ![Belhaim-1.png\|banner](/img/user/assets/Belhaim-1.png)
