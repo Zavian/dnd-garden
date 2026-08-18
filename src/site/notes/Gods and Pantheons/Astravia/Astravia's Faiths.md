@@ -65,7 +65,7 @@ Faith in Trent is a balance between the nurturing Mother and the predatory Hunte
 | [[Gods and Pantheons/Ry'v'shta\|Beast of Winter]] | N / A              | Entropy                 | A horned bull            | The god of cold, winter, famine, natural disasters and bad luck and all that is the end of things and peoples |
 
 ---
-::: hidden
+:::hidden
 ## 4. The Seldarine (Erivan)
 *The Ancient Gods of Elvenkind.*
 To the Elves, the gods are not distant creators, but ancestors who left the AonDor as a legacy.
