@@ -15,9 +15,6 @@ Maribor dwells within the **Eternal Citadel** in the [[Locales/Otherwordly/The H
 
 In the ancient past, Maribor was the one who encouraged his children to look beyond the [[Sanctum's Mantle\|Sanctum's Mantle]] and forge a legacy that would outlast the gods themselves. While the other Aesira children focused on the elements or the immortal soul, Maribor focused on the *moment*—the fleeting but brilliant fire of mortality.
 
-## Appearance and Depiction
-
-Maribor is shown not as a gilded idol, but as a rugged, imposing man in the prime of life, bearing the faded scars of the ancient wars that secured humanity’s place in the world. He wears practical plate armor of steel and leather rather than gold, draped in a cloak of deep crimson. He is rarely seen sitting; he stands ready, often holding a scepter that doubles as a mace, symbolizing his dual role as ruler and protector. This aligns with his depiction in early Avrynian art as a travel-worn king with a sword of simple steel, signifying that human power comes from sweat and blood, not just divine birthright.
 
 ## The Church of the Third Son
 
