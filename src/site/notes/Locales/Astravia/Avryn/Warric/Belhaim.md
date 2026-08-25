@@ -38,7 +38,7 @@ The greatest political concerns in Belhaim are inexorably entwined with the resi
 - [[Gods and Pantheons/Astravia/Shelyn\|Shelyn]]: Shelynites prefer Belhaim as it is - a cozy town that doesn't see much action. They see the Abadarans as greedy traditionalists who have forgotten how to take time to enjoy life.
 
 # Important People
-- **Lady [[Origena Devy\|Origena Devy]]**. The current leader of the town, the current town's baroness.
+- **Lady [[Characters and Organizations/Astravians Characters/Origena Devy\|Origena Devy]]**. The current leader of the town, the current town's baroness.
 - **Bassy**. A gnome of 414 years of age, she has lived for a very long time and she's managed to avoid the [[The Library/Bleaching\|bleaching]] through a combination of frequent sightseeing trips throughout Astravia and her own hobby of writing historical fiction.
 # Known Locales
 ## The Wise Piper Inn
