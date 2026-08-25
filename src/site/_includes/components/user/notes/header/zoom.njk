@@ -4,9 +4,9 @@
 <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1/dist/medium-zoom.min.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
-    // Targets images inside the main note content area.
-    // Adjust the selector if your theme wraps content differently.
-    mediumZoom('.note-content img, article img, .markdown-body img', {
+    // Targets images rendered inside the theme's <picture> wrapper,
+    // which is how all embedded images are output on this site.
+    mediumZoom('picture img', {
       margin: 24,
       background: 'rgba(10, 10, 10, 0.9)',
       scrollOffset: 0,
