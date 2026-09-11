@@ -8,5 +8,6 @@
 > First meeting: [[Session Journals/Session 14 - 10th July\|Session 14 - 10th July]]
 
 During the auction he purchased:
-- Manual of Flesh Gomes
+- Manual of Flesh Golems
 - Bedroom lot
+
