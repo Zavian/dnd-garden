@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Garden.md","permalink":"/garden/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-![Astravia Map.webp\|banner](/img/user/Locales/Astravia/Astravia%20Map.webp)
+![Astravia Map.webp](/img/user/Locales/Astravia/Astravia%20Map.webp)
 
 Welcome, traveler. Astravia is a land of hope and preservation, sheltered from the cosmic chaos beyond by a magical barrier known as the Sanctum's Mantle. Within its bounds rise four mortal kingdoms, each shaped by its own gods, wars, and ambitions.
 
@@ -49,5 +49,5 @@ Welcome, traveler. Astravia is a land of hope and preservation, sheltered from t
 
 { .block-language-dataview}
 
-## Full Map
+## Setting PDF
 <iframe src="/img/user/Meta/Astravia.pdf" width="100%" height="900px" title="Astravia.pdf" style="border:1px solid #ccc;"></iframe>
