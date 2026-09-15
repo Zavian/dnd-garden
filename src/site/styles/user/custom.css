@@ -516,12 +516,13 @@ td>span>mark {
 .callout[data-callout="infobox"] {
     .callout-title { display: none; }
 
-    .callout-content {
+    .callout-content p {
         padding: 1em;
         background: rgba(var(--callout-gray), 10%);
 
-        img {
+        picture img {
             margin: 0 !important;
+            border-radius: 0.4em;
         }
     }
 }
