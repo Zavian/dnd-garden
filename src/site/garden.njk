@@ -1,0 +1,18 @@
+---json
+{
+  "permalink": "/garden.json",
+  "eleventyExcludeFromCollections": true
+}
+---
+[
+  {%- for note in (collections.note | notHidden) -%}
+  {%- if note.url != "/" -%}
+  {
+    "title": {{ (note.data.title or note.fileSlug) | dump | safe }},
+    "slug": {{ note.fileSlug | dump | safe }},
+    "url": {{ note.url | dump | safe }},
+    "raw": {{ (note.rawInput or "") | dump | safe }}
+  }{% if not loop.last %},{% endif %}
+  {%- endif -%}
+  {%- endfor -%}
+]
