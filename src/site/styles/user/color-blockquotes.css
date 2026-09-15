@@ -21,6 +21,10 @@ blockquote {
   padding: 15px !important;
   margin: 0 !important;
   border-radius: 0.4em;
+  
+  /* Fixes it being behind infoboxes/floating blocks */
+  display: flow-root;
+
 }
 
 blockquote p {
