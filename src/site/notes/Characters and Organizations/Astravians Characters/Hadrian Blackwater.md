@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters-and-organizations/astravians-characters/hadrian-blackwater/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters-and-organizations/astravians-characters/hadrian-blackwater/","dg-note-properties":{"aliases":["Hadrian"]}}
 ---
 
 > [!infobox]

@@ -6,5 +6,5 @@
 > ![Maffei.png\|300](/img/user/assets/Maffei.png)
 > First meeting: [[Session Journals/Session 10 - 28th May\|Session 10 - 28th May]]
 
-She was saved by the group in Hunclay's manor in [[Locales/Astravia/Avryn/Warric/Belhaim\|Belhaim]]. She has a brother named [[Luka\|Luka]] who she cares deeply about.
+She was saved by the group in Hunclay's manor in [[Locales/Astravia/Avryn/Warric/Belhaim\|Belhaim]]. She has a brother named [[Characters and Organizations/Otherworldly Characters/Luka\|Luka]] who she cares deeply about.
 The group told her they'd help her getting back in the [[Shadowfel\|Shadowfel]]

@@ -14,7 +14,7 @@ The world is divided into four primary regions of mortal-kind:
 * **Delgos:** The Impossible Lands.
 * **Trent:** The Broken Lands.
 
-Beyond these lie the **Westerlins** to the west, the **Wilderlands** to the north, the elven kingdom of **Erivan** to the east across the river Divide, and the shattered **Isle of Dacca** to the south. 
+Beyond these lie the **Westerlins** to the west, the **Wilderlands** to the north, the elven kingdom of **Erivan** to the east across the river Divide, and the shattered **Isle of Dacca** to the south. (Source: Astravia.pdf, Page 9)
 
 ## The People of Astravia
 The following demonyms are commonly used to describe the inhabitants of the various kingdoms:

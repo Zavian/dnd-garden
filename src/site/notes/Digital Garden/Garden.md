@@ -30,10 +30,12 @@ Welcome, traveler. Astravia is a land of hope and preservation, sheltered from t
 - [[Characters and Organizations/Astravians Characters/Arnholde Devy\|Arnholde Devy]]
 - [[Characters and Organizations/Astravians Characters/Circe\|Circe]]
 - [[Characters and Organizations/Astravians Characters/Dalila Fraioli\|Dalila Fraioli]]
+- [[Characters and Organizations/Astravians Characters/Goldscale\|Goldscale]]
 - [[Characters and Organizations/Astravians Characters/Hadrian Blackwater\|Hadrian Blackwater]]
 - [[Characters and Organizations/Astravians Characters/Mr. Pickets\|Mr. Pickets]]
 - [[Characters and Organizations/Astravians Characters/Origena Devy\|Origena Devy]]
 - [[Characters and Organizations/Astravians Characters/Razir Al-Samar\|Razir Al-Samar]]
+- [[Characters and Organizations/Astravians Characters/Sergeant Hendryk\|Sergeant Hendryk]]
 - [[Characters and Organizations/Astravians Characters/Stefan Kristiansen\|Stefan Kristiansen]]
 - [[Characters and Organizations/Astravians Characters/The Painted Man\|The Painted Man]]
 
@@ -45,6 +47,7 @@ Welcome, traveler. Astravia is a land of hope and preservation, sheltered from t
 { .block-language-dataview}
 
 ## Places
+- [[Locales/Astravia/Astravia\|Astravia]]
 - [[Locales/Astravia/Avryn/Warric/Belhaim\|Belhaim]]
 
 { .block-language-dataview}

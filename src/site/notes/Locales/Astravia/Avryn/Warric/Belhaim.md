@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Locales/Avryn/Belhaim.md","permalink":"/locales/avryn/belhaim/","dg-note-properties":{}}
 ---
 
-![Belhaim-1.png\|banner](/img/user/assets/Belhaim-1.png)
+![Belhaim-1.png\|banner p+tc](/img/user/assets/Belhaim-1.png)
 During the rule of [[House Thrune\|House Thrune]] the region east of [[Locales/Astravia/Avryn/Warric/Aquesta\|Aquesta]] endured an explosion of violent and bloody depredations by various different monsters and dragons. Among those affected by the attacks was a young woman named [[Tula Belhaim\|Tula Belhaim]], who lost her family when a black dragon named [[Aeteperax\|Aeteperax]] destroyed her hometown of [[Nazilli\|Nazilli]] in the southern edge of the now known [[Locales/Astravia/Trent/Trent\|Trent]]. She would go on to become a great hero, and a the mercenary company she founded - the [[Slayers of Nazilli\|Slayers of Nazilli]] - defeated more monsters than any other group in those days. Her final triumph was the slaying of [[Aeteperax\|Aeteperax]] in the heart of a tundra in Trent.
 For her servive, the house of thrune awared Tula the title of Baroness and the stewardship of the [[Verduran Fork\|Verduran Fork]] region, including all of Dragonfen. Her legion of admirers soon founded a town bearing her name, its buildings built of limestone quarried nearby.
 A few years later a band of [[Gods and Pantheons/Astravia/Irori\|Iroran]] priests presented themselves before the Baroness of Belhaim and asked her permission to build a monastery east of the town, overlooking Dragonfen. Lady Tula granted their wish and soon thereafter the monks built a fine monastery on the far side of the swampy area.
@@ -23,9 +23,7 @@ Upheaval was not limited to the town however. A month prior to the razing of Cas
 
 ![Belhaim.png](/img/user/assets/Belhaim.png)
 
-![Tula Crest.png\|300](/img/user/assets/Tula%20Crest.png)
-
-> [!center]
+![Tula Crest.png\|center\|298](/img/user/assets/Tula%20Crest.png)
 > Post Cinerem, Reviresco
 > *After the ash, we flourish anew*
 
