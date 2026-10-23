@@ -34,6 +34,7 @@ Welcome, traveler. Astravia is a land of hope and preservation, sheltered from t
 - [[Characters and Organizations/Astravians Characters/Hadrian Blackwater\|Hadrian Blackwater]]
 - [[Characters and Organizations/Astravians Characters/Mr. Pickets\|Mr. Pickets]]
 - [[Characters and Organizations/Astravians Characters/Origena Devy\|Origena Devy]]
+- [[Characters and Organizations/Astravians Characters/Radu Underhill\|Radu Underhill]]
 - [[Characters and Organizations/Astravians Characters/Razir Al-Samar\|Razir Al-Samar]]
 - [[Characters and Organizations/Astravians Characters/Sergeant Hendryk\|Sergeant Hendryk]]
 - [[Characters and Organizations/Astravians Characters/Stefan Kristiansen\|Stefan Kristiansen]]
