@@ -49,6 +49,7 @@ Welcome, traveler. Astravia is a land of hope and preservation, sheltered from t
 ## Places
 - [[Locales/Astravia/Astravia\|Astravia]]
 - [[Locales/Astravia/Avryn/Warric/Belhaim\|Belhaim]]
+- [[Locales/Astravia/The Divide\|The Divide]]
 
 { .block-language-dataview}
 

@@ -13,7 +13,7 @@ The **God of Men** and the central figure of the **Nyphron Church** in [[Locales
 
 Maribor dwells within the **Eternal Citadel** in the [[Locales/Otherwordly/The Hallows Above/The Hallows Above\|Hallows Above]], a fortress-city that represents the unyielding spirit of humanity. Its ramparts are said to be built from the first stones laid by mortals, and its halls echo with the stories of every hero who has ever defended their kin. Maribor is a stoic, determined, and protective deity who wishes to see humanity not just survive the harshness of Astravia, but conquer it through unity, grit, and dynastic strength.
 
-In the ancient past, Maribor was the one who encouraged his children to look beyond the [[Sanctum's Mantle\|Sanctum's Mantle]] and forge a legacy that would outlast the gods themselves. While the other Aesira children focused on the elements or the immortal soul, Maribor focused on the *moment*—the fleeting but brilliant fire of mortality.
+In the ancient past, Maribor was the one who encouraged his children to look beyond the [[Gods and Pantheons/Sanctum's Mantle\|Sanctum's Mantle]] and forge a legacy that would outlast the gods themselves. While the other Aesira children focused on the elements or the immortal soul, Maribor focused on the *moment*—the fleeting but brilliant fire of mortality.
 
 
 ## The Church of the Third Son

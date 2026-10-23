@@ -8,7 +8,7 @@ The **All-Seeing** and the volatile center of the **Arcane Accord** in [[Locales
 
 ## The Shattered God-King
 
-Ancient texts from the deserts of [[Locales/Astravia/Calis/Calis\|Calis]] mention a powerful Sorcerer-King named Nethys, whose mighty sorceries allowed him to peer beyond the [[Sanctum's Mantle\|Sanctum's Mantle]] and see all that transpired across the planes of the Great Beyond. The knowledge he gained through these visions fueled his ascension to divinity, but the sheer weight of the cosmos shattered his psyche. Ever since, Nethys has been of two minds—one set upon unraveling the world to understand its core, and another pledged to protect it as a precious artifact.
+Ancient texts from the deserts of [[Locales/Astravia/Calis/Calis\|Calis]] mention a powerful Sorcerer-King named Nethys, whose mighty sorceries allowed him to peer beyond the [[Gods and Pantheons/Sanctum's Mantle\|Sanctum's Mantle]] and see all that transpired across the planes of the Great Beyond. The knowledge he gained through these visions fueled his ascension to divinity, but the sheer weight of the cosmos shattered his psyche. Ever since, Nethys has been of two minds—one set upon unraveling the world to understand its core, and another pledged to protect it as a precious artifact.
 
 This duality defines his faith. He is often shown with both his aspects in action: one side of him is burned and broken, unleashing terrible magic upon the world, while the other half is calm and serene, using magic to heal the sick and protect the innocent. He is the god of magic for magic's sake, unburdened by morality or consequence.
 

@@ -6,7 +6,7 @@ While the **Prismatic Ray** serves as the spiritual bedrock for much of Astravia
 
 ---
 
-## 0. The Prismatic Ray (The Aesira)
+## The Prismatic Ray (The Aesira)
 *The High Gods of the Mantle.*
 These five deities are the architects of the **Sanctum's Mantle**. They are rarely petitioned for mundane tasks, instead representing the cosmic balance of the Rhythm.
 > [!grid]
@@ -26,7 +26,7 @@ These five deities are the architects of the **Sanctum's Mantle**. They are rare
 
 ---
 
-## 1. The Nyphron Covenants (Avryn)
+## The Nyphron Covenants (Avryn)
 *The Gods of Civilization and the Legacy of Men.*
 The Nyphron Church centers its worship on the "Third Son," Maribor, while respecting the legalistic frameworks of his subordinates.
 
@@ -39,7 +39,7 @@ The Nyphron Church centers its worship on the "Third Son," Maribor, while respec
 
 ---
 
-## 2. The Arcane Accord (Delgos)
+## The Arcane Accord (Delgos)
 *The Gods of Paradox, Forge, and Innovation.*
 In the Impossible Lands, the gods are seen as the first "Engineers."
 
@@ -52,7 +52,7 @@ In the Impossible Lands, the gods are seen as the first "Engineers."
 
 ---
 
-## 3. The Green Pact (Trent)
+## The Green Pact (Trent)
 *The Gods of Survival and the Primordial Wilds.*
 Faith in Trent is a balance between the nurturing Mother and the predatory Hunter.
 
