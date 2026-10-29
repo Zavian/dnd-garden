@@ -32,6 +32,7 @@ Welcome, traveler. Astravia is a land of hope and preservation, sheltered from t
 - [[Characters and Organizations/Astravians Characters/Dalila Fraioli\|Dalila Fraioli]]
 - [[Characters and Organizations/Astravians Characters/Goldscale\|Goldscale]]
 - [[Characters and Organizations/Astravians Characters/Hadrian Blackwater\|Hadrian Blackwater]]
+- [[Characters and Organizations/Astravians Characters/Hommal Agic\|Hommal Agic]]
 - [[Characters and Organizations/Astravians Characters/Mr. Pickets\|Mr. Pickets]]
 - [[Characters and Organizations/Astravians Characters/Origena Devy\|Origena Devy]]
 - [[Characters and Organizations/Astravians Characters/Radu Underhill\|Radu Underhill]]
